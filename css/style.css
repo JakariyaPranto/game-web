@@ -44,6 +44,7 @@ Navbar Section
     padding: 20px 0;
     position: fixed;
     width: 100%;
+    z-index: 999;
 }
 .button.nav-btn {
     padding: 10px 27px;
