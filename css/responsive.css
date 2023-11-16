@@ -1,0 +1,390 @@
+@media screen and (max-width: 991px) {
+
+    h1, h2, h3, h4, h5, h6, p{
+        line-height: 150%;
+    }
+    .header {
+        background-color: #000;
+    }
+    .nav-link {
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    .navbar-nav {
+        margin-top: 30px;
+    }
+    .hero-content {
+        padding-top: 120px;
+        text-align: center;
+    }
+    .hero-img img {
+        width: 100%;
+    }
+    .trending-header {
+        align-items: center;
+        flex-direction: column;
+    }
+    .trending-header h2 {
+        text-align: center;
+        line-height: 120%;
+    }
+    a.button.tranding-btn {
+        margin-top: 10px;
+    }
+    .tranding-item {
+        margin-bottom: 30px;
+    }
+    .tranding-caption {
+        margin-top: 15px;
+    }
+    .trending-section {
+        padding: 80px 0;
+    }
+    h2.spiderman-game-title {
+        margin-bottom: 40px;
+    }
+    .spiderman-game-caption h3 {
+        margin-bottom: 15px;
+    }
+    .spiderman-game-img {
+        margin-top: 30px;
+    }
+    .dot-bg {
+        top: -45px;
+        right: 80px;
+    }
+    .spiderman-game {
+        padding-bottom: 100px;
+    }
+    .variant-game-section {
+        padding: 70px 0;
+    }
+    .variant-game-section-header {
+        margin-bottom: 60px;
+    }
+    a.variant-game-item {
+        margin-bottom: 25px;
+    }
+    .recent-project-section {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+    .recent-project-header {
+        margin-bottom: 50px;
+    }
+    .seeall-btn-wraper a {
+        margin-top: 30px;
+    }
+    .subscribe-caption {
+        margin-bottom: 15px;
+    }
+    .footer-top {
+        padding-bottom: 100px;
+    }
+    .footer-top-header {
+        margin-bottom: 40px;
+    }
+    .footer-top-header h2 {
+        margin-bottom: 15px;
+    }
+    .footer-item {
+        margin-bottom: 30px;
+    }
+    .footer-item h5 {
+        margin-bottom: 10px;
+    }
+    .footer-left-text {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .footer-item a {
+        margin-bottom: 8px;
+    }
+    .footer-bottom {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+
+    /* ====== About Page ======== */
+    .about-hero-contant-wraper {
+        margin-bottom: 30px;
+        padding-right: 0;
+        text-align: center;
+    }
+    .about-hero-btn {
+        margin-top: 30px;
+    }
+    .about-hero-contant-wraper h2 {
+        margin-bottom: 15px;
+    }
+    .work-us-item {
+        margin-bottom: 20px;
+    }
+    .work-us-section {
+        padding: 80px 0;
+    }
+    .work-us-title {
+        margin-bottom: 30px;
+    }
+    .about-cartun-game-section {
+        padding-top: 80px;
+    }
+    .about-cartun-game-content {
+        padding-left: 0;
+        padding-bottom: 30px;
+    }
+    .about-cartun-game-img {
+        text-align: center;
+    }
+    .about-cartun-game-img img {
+        width: 80%;
+    }
+    .team-member {
+        margin-bottom: 25px;
+    }
+    .team-section {
+        padding: 100px 0;
+    }
+    .team-title {
+        margin-bottom: 30px;
+    }
+    
+
+    /* ====== Portfolio Page ======== */
+    .portfolio-hero-section {
+        padding-top: 140px;
+        padding-bottom: 80px;
+    }
+    .our-details {
+        padding: 0 40px;
+    }
+    .detail-item {
+        padding: 40px;
+        border-bottom: 2px solid #EEEFF2;
+        border-right: 0;
+    }
+    .no-border {
+        border-bottom: 0;
+    }
+    .portfolio-hero-header {
+        margin-bottom: 35px;
+    }
+    .game-video-content {
+        margin-top: 25px;
+    }
+    
+    .portfolio-project-section {
+        padding: 100px 0;
+    }
+    .project-img {
+        text-align: center;
+    }
+    .project-img img {
+        width: 80%;
+    }
+    .project-content h2 {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .project-content p {
+        margin-bottom: 25px;
+    }
+    .project-content {
+        padding-right: 0;
+    }
+    .project2 .project-content {
+        padding-left: 0;
+    }
+    .project1, .project2 {
+        margin-bottom: 100px;
+    }
+    .testimonial-item {
+        margin-bottom: 25px;
+    }
+    .testimonial-section {
+        padding: 60px 0;
+    }
+    .testimonial-header h2 {
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .testimonial-header {
+        margin-bottom: 40px;
+    }
+    .portfolio-pt {
+        padding-top: 80px;
+    }
+
+    /* ====== News Page ======== */
+    .news-hero-section {
+        padding-top: 140px;
+        padding-bottom: 60px;
+    }
+    .search-news {
+        margin-top: 50px;
+    }
+    .news-section {
+        padding-bottom: 50px;
+    }
+    .news-left {
+        padding-right: 0;
+        margin-bottom: 40px;
+    }
+    .big-news-wraper h2 {
+        margin-bottom: 15px;
+    }
+    .news-first-pera {
+        margin-bottom: 20px;
+    }
+    .big-news-separator-line {
+        margin: 50px 0;
+    }
+    .small-news-item {
+        margin-bottom: 30px;
+    }
+
+    /* ====== Portfolio Page ======== */
+    .contact-item {
+        border-right: 0;
+        border-bottom: 1px solid #fff;
+    }
+    .contact-item {
+        align-items: center;
+    }
+    .contact-item .social-icon {
+        margin-top: 10px;
+    }
+    .map-img {
+        margin-bottom: 40px;
+    }
+    .contact-section {
+        padding-bottom: 80px;
+    }
+    .form-header {
+        margin-bottom: 40px;
+    }
+
+
+}
+/* max widht 991 */
+
+
+
+
+@media screen and (max-width: 767px) {
+
+    .hero-content h5 {
+        margin-bottom: 10px;
+    }
+    .hero-content h1 {
+        font-size: 40px;
+        line-height: 130%;
+        margin-bottom: 20px;
+    }
+    .hero-content p {
+        line-height: 170%;
+    }
+    .hero-btn {
+        margin-top: 30px;
+    }
+    .spiderman-game {
+        padding-bottom: 70px;
+    }
+    .variant-game-section {
+        padding: 50px 0;
+    }
+    .variant-game-section-header {
+        margin-bottom: 40px;
+    }
+    .recent-project-section {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    .seeall-btn-wraper a {
+        margin-top: 10px;
+    }
+    .footer-top {
+        padding-bottom: 60px;
+    }
+    .footer-top-header {
+        margin-bottom: 30px;
+    }
+    .footer-top-header h2 {
+        margin-bottom: 10px;
+    }
+    .footer-bottom {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    .footer-copyright-text {
+        padding: 20px 0;
+    }
+
+    /* ====== About Page ======== */
+    .work-us-item {
+        padding: 35px 25px;
+    }
+    .about-cartun-game-section {
+        padding-top: 50px;
+    }
+    .team-section {
+        padding: 60px 0;
+    }
+    .team-title {
+        margin-bottom: 20px;
+    }
+       
+    /* ====== Portfolio Page ======== */
+    .portfolio-hero-section {
+        padding-bottom: 60px;
+    }
+    .detail-item {
+        gap: 15px;
+    }
+    .detail-item h5 {
+        font-size: 20px;
+    }
+    .detail-item p {
+        font-size: 14px;
+    }
+    .game-video-content {
+        margin-top: 20px;
+    }
+    .video-content-list-item {
+        margin-bottom: 15px;
+    }
+    .portfolio-project-section {
+        padding: 60px 0;
+    }
+    .project-content h2 {
+        margin-bottom: 10px;
+    }
+    .project1, .project2 {
+        margin-bottom: 60px;
+    }
+    .testimonial-item {
+        min-height: 200px;
+    }
+    .portfolio-pt {
+        padding-top: 50px;
+    }
+
+    /* ====== News Page ======== */
+    .small-news-item {
+        gap: 15px;
+    }
+    .news-btn {
+        margin-bottom: 10px;
+    }
+    /* ====== Contact Page ======== */
+    .contact-section {
+        padding-bottom: 50px;
+    }
+    .contact-form-wraper input, 
+    .contact-form-wraper textarea {
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+}
+/* max widht 767 */
